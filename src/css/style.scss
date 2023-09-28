@@ -10,9 +10,6 @@ body {
 	line-height: 1.5;
 }
 
-p{
-	font-size: 14px;
-}
 h1 {
 	font-weight: 200;
 	font-size: 3rem;
@@ -101,11 +98,18 @@ img {
         height: 100vh;
     }
     h1{
-        font-size: 2rem;
+        font-size: 1.8rem;
 		color: #000;
     }
 	.tab:hover {
 		border: 1px solid rgba(0, 0, 0, 0.6);
 	
+	}
+	p{
+		font-size: 14px;
+	}
+	img{
+		width: 100px;
+		max-height: 100px;
 	}
 }
